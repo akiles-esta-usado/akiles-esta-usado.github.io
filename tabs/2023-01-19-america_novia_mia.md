@@ -1,5 +1,4 @@
 ---
-title: América Novia Mía
 layout: post
 date: \'2023-01-19 22:56:28 -0000\'
 categories:
@@ -7,7 +6,7 @@ categories:
   - Patricio Manns
 ---
 
-
+# America Novia Mía
 
 ## Acordes
 
@@ -103,9 +102,9 @@ Tan nuestro que será dulce, sentirás
 ## Coro
 
 ~~~
-   A           G#7           D#m
+   A           G#7           C#m
 Morena América mía, no hay dolor
-   F#7                          B
+                    F#7         B
 Alfarero que no aplaste triunfador
     A                       G#m
 Es tuyo el camino del libertador
@@ -115,7 +114,7 @@ Es largo el regreso del conquistador
 
    A           G#7     C#m
 América novia mía, tómame
-  F#7               B
+                    F#7       B
 Entre tus brazos mulatos, cíñeme
     A              G#m
 En la boca tus dulsores, vierteme
@@ -187,9 +186,9 @@ Tan nuestro que será dulce, sentirás
 
 ## Coro
 ~~~
-   A           G#7           D#m
+   A           G#7           C#m
 Morena América mía, no hay dolor
-   F#7                          B
+                        F#7          B
 Al cuál el hombre no aplaste triunfador
     A                       G#m
 Es duro el camino del libertador
@@ -198,7 +197,7 @@ Es largo el regreso del conquistador
 
    A          G#7    C#m
 América novia mía, tómame
-   F#7              B
+                    F#7       B
 Entre tus brazos mulatos, cíñeme
     A              G#m
 En la boca tus dulsores, vierteme
@@ -248,16 +247,16 @@ La libertad a salido a navegar
 Es hora de combatir y caminar
 ```
 
-
 ## Coro
 ```
-  Em                        E
+
+  A            G#7         C#m
 Morena América mía, con pasión
-    A                 D          F
+                      F#7       B
 La sangre cubrió de flores el cañón
-     A                D           E
+     A                           G#m
 La hiedra del mal saltó a tu corazón
-    B7                             E
+    Am             B7             Em
 La selva vuelve a latir en la canción
 ```
 
