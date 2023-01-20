@@ -7,11 +7,36 @@ categories:
   - Patricio Manns
 ---
 
-```
+
+
+## Acordes
+
+
+Verso:
+
+| 1-4  | 1-4    |
+| ---- | ------ |
+| Em   | E      |
+| A  D | E      |
+| A  D | F      |
+| B7   | E (E7) |
+
+
+Coro:
+
+| 1-2 | 1-2 | 1-2 | 1-2 |
+| --- | --- | --- | --- |
+| A   | G#7 | C#m |     |
+|     | F#7 | B   |     |
+| A   |     | G#m |     |
+| Am  | B7  | Em  |     |
+
+
 # Inti Illimani, Chile Resistencia
 
 ## Verso
 
+```
   Em                     E
 Morena américa mía, litoral
      A              D           E
@@ -29,17 +54,11 @@ Despierta el canto del pueblo en voz de mar
 La libertad a salido a navegar
     B7                     E - E7
 Es hora de combatir y caminar
-
+```
 
 ## Coro
 
-| 1-2 | 1-2 | 1-2 | 1-2 |
-| --- | --- | --- | --- |
-| A   | G#7 | C#m |     |
-|     | F#7 | B   |     |
-| A   |     | G#m |     |
-| Am  | B7  | Em  |     |
-
+~~~
   A            G#7     C#m
 América novia mía, tomame
                     F#7       B
@@ -48,15 +67,20 @@ Entre tus brazos mulatos, ciñeme
 En la boca tus dulsores, vierteme
       Am             B7         Em
 Y el pecho de resplandores, lléname
+~~~
 
 
-**Quenas**
+Quenas
 
+~~~
 Em - A
+~~~
+
 
 
 ## Verso
 
+~~~
   Em                        E
 Morena América mía, la traición
      A                D           E
@@ -74,10 +98,11 @@ Tus hijos vino de caña, te darán
 Amargo pero tan nuestro, ya verás
     B7                            E - E7
 Tan nuestro que será dulce, sentirás
-
+~~~
 
 ## Coro
 
+~~~
    A           G#7           D#m
 Morena América mía, no hay dolor
    F#7                          B
@@ -96,13 +121,13 @@ Entre tus brazos mulatos, cíñeme
 En la boca tus dulsores, vierteme
         Am            B7         Em
 Y el pecho de resplandores, lléname
-
+~~~
 
 
 # Inti Illimanns, En vivo en el Monumental 
 
 ## Verso
-
+~~~
   Em                     E
 Morena américa mía, litoral
      A              D           E
@@ -120,10 +145,10 @@ Despierta el canto del pueblo en voz de mar
 La libertad a salido a navegar
     B7                     E - E7
 Es hora de combatir y caminar
-
+~~~
 
 ## Coro
-
+~~~
   A            G#7     C#m
 América novia mía, tomame
                     F#7       B
@@ -132,14 +157,14 @@ Entre tus brazos mulatos, ciñeme
 En la boca tus dulsores, vierteme
       Am             B7         Em
 Y el pecho de resplandores, lléname
+~~~
 
-
-**Quenas**
-
+Quenas
+~~~
 Em - A
-
+~~~
 ## Verso
-
+~~~
   Em                        E
 Morena América mía, con pasión
     A                 D          F
@@ -158,10 +183,10 @@ Tus hijos vino de caña, te darán
 Amargo pero tan nuestro, ya verás
     B7                            E - E7
 Tan nuestro que será dulce, sentirás
-
+~~~
 
 ## Coro
-
+~~~
    A           G#7           D#m
 Morena América mía, no hay dolor
    F#7                          B
@@ -179,15 +204,15 @@ Entre tus brazos mulatos, cíñeme
 En la boca tus dulsores, vierteme
         Am            B7         Em
 Y el pecho de resplandores, lléname
-
+~~~
 
 # Patricio Manns, Concierto America Novia Mía
 
-> Un tono abajo, no hice el trabajo de bajarlo :(
-
+> Un tono abajo, no me dí el trabajo de bajarlo :(
 
 ## Verso
 
+```
   Em                     E
 Morena américa mía, litoral
      A              D           E
@@ -196,10 +221,10 @@ El viento peina tu pelo de cristal
 Tu pecho de tierra oscura, mineral
     B7                          E
 Modula en el canto de oro del trigal
-
+```
 
 ## Coro
-
+```
   A            G#7     C#m
 América novia mía, tomame
                     F#7       B
@@ -208,10 +233,10 @@ Entre tus brazos mulatos, ciñeme
 En la boca tus dulsores, vierteme
       Am             B7         Em
 Y el pecho de resplandores, lléname
-
-
+```
 ## Verso
 
+```
 
  Em                         E
 América novia mía, este cantar
@@ -221,11 +246,11 @@ Despierta el canto del pueblo en voz de mar
 La libertad a salido a navegar
     B7                     E - E7
 Es hora de combatir y caminar
-
+```
 
 
 ## Coro
-
+```
   Em                        E
 Morena América mía, con pasión
     A                 D          F
@@ -234,11 +259,15 @@ La sangre cubrió de flores el cañón
 La hiedra del mal saltó a tu corazón
     B7                             E
 La selva vuelve a latir en la canción
+```
 
+~~~
+Quena
+~~~
 
-**Quena**
+## Verso
 
-
+```
    A           G#7           D#m
 Morena América mía, no hay dolor
     F#7                              B
@@ -247,10 +276,10 @@ Al cuál el hombre no aplaste triunfador
 Es duro el camino del libertador
     Am              B7           E - E7
 Es largo el regreso del conquistador
-
+```
 
 ## Coro
-
+```
   A           G#7        C#m
 América novia mía, con afán
                    F#7        B
@@ -262,7 +291,3 @@ Las noches del forastero
      ?
 Llegarán.
 ```
-
-Referencias:
-
--
