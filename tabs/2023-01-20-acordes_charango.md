@@ -22,8 +22,17 @@ Casi todos los saqué de la guía de Hector Soto.
 | F       | 20101 | 10131 | 23101 | 12121 | 21141 |
 | F# / Gb | 31210 | 21202 | 31210 | 23232 | 32252 |
 | G       | 02323 | 02313 | 02123 | 01010 | 43363 |
-| G# / Ab | 10434 | z3424 | 10234 | 12121 | 10030 |
+| G# / Ab | 10434 | x3424 | 10234 | 12121 | 10030 |
 | A       | 21000 | 20000 | 01000 | 23232 | 21141 |
 | A# / Bb | 32111 | 31111 | 12111 | 01010 | 32252 |
 | B       | 43222 | 42222 | 23222 | 12121 | 43363 |
 
+
+
+## 20 Acordes Maj7, M7 y Sensible Tonal. Explicación.
+
+https://www.youtube.com/watch?v=h9HSl32YKnY 
+
+Este video da una explicación de teoría musical aplicada al charango y sus acordes.
+Igual lo encontré un poco enredado para alguién que no sabe nada de acordes.
+Mejor leer el libro de Hector Soto.
