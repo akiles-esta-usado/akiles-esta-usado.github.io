@@ -207,56 +207,56 @@ Y el pecho de resplandores, lléname
 
 # Patricio Manns, Concierto America Novia Mía
 
-> Un tono abajo, no me dí el trabajo de bajarlo :(
+> Un tono abajo. No me dí el tiempo de determinar los acordes del final.
 
 ## Verso
 
 ```
-  Em                     E
+  Dm                     D
 Morena américa mía, litoral
-     A              D           E
+     G              C           D
 El viento peina tu pelo de cristal
-     A                D        F
+     G                C        D#
 Tu pecho de tierra oscura, mineral
-    B7                          E
-Modula en el canto de oro del trigal
+  A7                             D
+Ondula en el canto de oro del trigal
 ```
 
 ## Coro
 ```
-  A            G#7     C#m
+  G            F#7     Bm
 América novia mía, tomame
-                    F#7       B
+                    E7       A
 Entre tus brazos mulatos, ciñeme
-   A                           G#m
+   G                           F#m
 En la boca tus dulsores, vierteme
-      Am             B7         Em
+      Gm             A7         Dm
 Y el pecho de resplandores, lléname
 ```
 ## Verso
 
 ```
 
- Em                         E
+ Dm                         D
 América novia mía, este cantar
-    A                     D              E
+    G                     C              D
 Despierta el canto del pueblo en voz de mar
-    A            D          F
+    G            C          D#
 La libertad a salido a navegar
-    B7                     E - E7
+    A7                     D - D7
 Es hora de combatir y caminar
 ```
 
 ## Coro
-```
 
-  A            G#7         C#m
+```
+  G            F#7         Bm
 Morena América mía, con pasión
-                      F#7       B
+                      E7       A
 La sangre cubrió de flores el cañón
-     A                           G#m
+     G                           F#m
 La hiedra del mal saltó a tu corazón
-    Am             B7             Em
+    Gm             A7             Dm
 La selva vuelve a latir en la canción
 ```
 
@@ -264,28 +264,31 @@ La selva vuelve a latir en la canción
 Quena
 ~~~
 
+Dm - G
+
 ## Verso
 
 ```
-   A           G#7           D#m
+   
+Dm                           D
 Morena América mía, no hay dolor
-    F#7                              B
+     G                C             D
 Al cuál el hombre no aplaste triunfador
-    A                       G#m
+   G               C         D#
 Es duro el camino del libertador
-    Am              B7           E - E7
+   A7                             D - D7
 Es largo el regreso del conquistador
 ```
 
 ## Coro
 ```
-  A           G#7        C#m
+  G           F#7       Bm
 América novia mía, con afán
-                   F#7        B
+                   E7        A
 Los dulces días antiguos volverán
-       A                        G#m
+       G                        F#m
 Los rayos del alva un beso de darán.
-     Am             B7        
+     Gm             A7        
 Las noches del forastero
      ?
 Llegarán.
