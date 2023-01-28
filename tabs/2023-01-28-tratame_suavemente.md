@@ -40,17 +40,17 @@ D                 F#m                 C
   Se esconde tras sus ojos
 
 D            F#m               C 
-  Y que tu blusa, adora sentimientos
+  Y que tu blusa, atora sentimientos
 Bm         A
   que respiras
 
 D                  F#m                   C 
   Tienes que comprender que no puse tus miedos
   Bm               A
-  Donde estan guardados
+  Donde están guardados
 
 D              F#m    C 
-  Y que no podré, quitartelos.
+  Y que no podré, quitártelos.
            Bm          A
   Si al hacerlo me desgarras.
 ~~~
@@ -66,7 +66,7 @@ G              A                 F#m     E
 G             A          F#m  (Riff) Bm
   Ni contemplarlas, sabiamente.
 
-  G               A          D      Bm
+  G                A          D      Bm
   Quiero que me trates, suavemente.
   G                A
   Quiero que me trates.
