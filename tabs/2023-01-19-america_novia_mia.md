@@ -72,9 +72,31 @@ Y el pecho de resplandores, lléname
 Quenas
 
 ~~~
-Em - A
-~~~
+| Octaba |                                                                       |
+|--------|-----------------------------------------------------------------------|
+| 3er    | .             G                                                       |
+| 2do    | . B B D . E E   . F# F# D . E E B . E E B . B B D . C# C# A . B B     |
+| 1er    | .                                                                 E   |
+|--------|-----------------------------------------------------------------------|
+| 3er    | .                                                                     |
+| 2do    | .         B B B . A  A      G G     B B G . G G F# . A A    . G G     |
+| 1er    | . E E G .              F# .     E .                       E        E  |
+|--------|-----------------------------------------------------------------------|
+|        | . Em    .       .         .       .       .        . A      . Em      |
 
+
+| Octaba |                                                             |
+|--------|-------------------------------------------------------------|
+| 3er    | .     G .                                                   |
+| 2do    | . E E     F# F# D . E E B . B B D . C# C# A . B B     B B   |
+| 1er    | .                                                 E .     E |
+|--------|-------------------------------------------------------------|
+| 3er    | .                                                           |
+| 2do    | . B B D . C# C# A . B B E . G G B . A  A F# . E E E . E E E |
+| 1er    | .                                                           |
+|--------|-------------------------------------------------------------|
+|        | . Em    .         .       .       . A       .       . Em    |
+~~~
 
 
 ## Verso
@@ -158,7 +180,9 @@ En la boca tus dulsores, vierteme
 Y el pecho de resplandores, lléname
 ~~~
 
+
 Quenas
+
 ~~~
 Em - A
 ~~~
@@ -236,7 +260,6 @@ Y el pecho de resplandores, lléname
 ## Verso
 
 ```
-
  Dm                         D
 América novia mía, este cantar
     G                     C              D
@@ -269,7 +292,6 @@ Dm - G
 ## Verso
 
 ```
-   
 Dm                           D
 Morena América mía, no hay dolor
      G                C             D
