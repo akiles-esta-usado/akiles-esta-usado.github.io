@@ -7,6 +7,8 @@ categories:
 - Mazapan
 ---
 
+[Canción](https://www.youtube.com/watch?v=QdNx60I2gCc)
+
 # Carnavalito del Cienpiés
 
 ## Acordes
@@ -46,6 +48,17 @@ categories:
 | C  | Dm | E  | F6 |
 | Em | E  | Am |    |
 ~~~
+
+## Quenas o Flautas
+
+~~~
+| 0:14                            |
+|---------------------------------|
+| .   A - C A G -   G   G         |
+| . E             E   E   E D C A |
+| .                               |
+~~~
+
 
 ## Verso
 
