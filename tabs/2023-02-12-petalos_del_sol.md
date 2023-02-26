@@ -42,72 +42,99 @@ Se encuentren los caminos de tu vida y la mía.
 
 # Quena
 
+## Guitarra
+
+~~~
+| 0:00           |                                        |
+|----------------|----------------------------------------|
+| .              | .                                      |
+| .              | .                          G# -   G# A |
+| . B A# A G#    | .   G# B E - D# E F - C# F    - F      |
+| .           F# | . E                                    |
+
+Se toca muy agudo como para hacerlo cómodo. Mejor en guitarra.
+~~~
+
+
 ## Verso 1 0:18
 
 ~~~
-| Dime linda morena      | Porqué me haces sufrir. |
+| 0:18 Dime linda morena | Porqué me haces sufrir. |
 |------------------------|-------------------------|
+| .                    ~ | .   ~                   |
 | .                      |                         |
 | . B - B A# B A# C# - B | . B B A - G#    G#      |
 | . . - . .  . .  .  - . | .            F#         |
 
 
-| Si sabes que mañana   | serás feliz aquí a mi lado.      |
-|-----------------------|----------------------------------|
-| .                     | .                                |
-| .    G#    G#         | . G# E . D# F# . E E . C# E . D# |
-| . F#    F#    F#  E E | .                                |
+| 0:22 Si sabes que mañana | serás feliz aquí a mi lado.      |
+|--------------------------|----------------------------------|
+| .                        | .                  ~      ~      |
+| .                        | .                                |
+| .    G#    G#            | . G# E . D# F# . E E . C# E . D# |
+| . F#    F#    F#  E E    | .                                |
 
-| En tu corazón ha germinado  | la semilla de la pasión y del amor. |
-|-----------------------------|-------------------------------------|
-| .           G#              | .                                   |
-| . A C# F# F    F# E C# E D# | . C# . B B C# B C# B D# . B B A G#  |
-| .                           | .                                   |
+| 0:27 En tu corazón ha germinado | la semilla de la pasión y del amor. |
+|---------------------------------|-------------------------------------|
+| .                      ~        | .                                   |
+| .           G#                  | .                                   |
+| . A C# F# F    F# E C# E D#     | . C# . B B C# B C# B D# . B B A G#  |
+| .                               | .                                   |
+~~~
 
 
-| Dime linda morena      | porqué tanto esperar |
+## Verso 2
+
+~~~
+| 0:35 Dime linda morena | porqué tanto esperar |
 |------------------------|----------------------|
+| .                    ~ | .   ~                |
 | .                      |                      |
 | . B - B A# B D# C# - B | . B B A - G#    G#   |
 | . . - . .  . .  .  - . | .            F#      |
 
-| Si sabes que el cariño que ha nacido es infinito. |
-|---------------------------------------------------|
-| .                                                 |
-| . D D C# D C# D . C# D E . F# . E D E . D . C#    |
-| .                                                 |
-
-
-
-| Qué tu boca necesito  | para aliviar mi amargura |
-|-----------------------|--------------------------|
-| .                     | . A G .                  |
-| . C# C C# C C# D# E C | .       F# E . D D C B   |
-| .                     | .                        |
-
-| Qué esta enfermedad se cura  | si te quedas junto a mi |
-|------------------------------|-------------------------|
-| .                            | .                       |
-| . C# - B C# - B C# B C# - C# | . B - B C# B - A# B D   |
-| .                            | .                       |
-
-
-| Qué tu boca necesito | para aliviar mi amargura |
-|----------------------|--------------------------|
-| .                    | . A G .                  |
-| . D D D D D C# C C   | .       F# E . D D C B   |
-| .                    | .                        |
-
-| Qué esta enfermedad se cura | si te quedas junto a mi   |
-|-----------------------------|---------------------------|
-| .                           | .                         |
-| . E - D# E - B G# E F# - C# | . D# - E F# E - D# F# - E |
-| .                           | .                         |
-
+| 0:40 Si sabes que el cariño que ha nacido es infinito. |
+|--------------------------------------------------------|
+| .                                       ~              |
+| .                                                      |
+| . D D C# D C# D . C# D E . F# . E D E . D . C#         |
+| .                                                      |
 ~~~
 
-## Coro
+## Pre Coro
+~~~
+| 0:43 Qué tu boca necesito | para aliviar mi amargura |
+|---------------------------|--------------------------|
+| .                         | .                  ~     |
+| .                         | . A G .                  |
+| . C# C C# C C# D# E C     | .       F# E . D D C B   |
+| .                         | .                        |
 
+| 0:48 Qué esta enfermedad se cura | si te quedas junto a mi |
+|----------------------------------|-------------------------|
+| .                                |                         |
+| .                                | .                       |
+| . C# - B C# - B C# B C# - C#     | . B - B C# B - A# B D   |
+| .                                | .                       |
+
+| 0:53 Qué tu boca necesito | para aliviar mi amargura |
+|---------------------------|--------------------------|
+| .                         |                          |
+| .                         | . A G .                  |
+| . D D D D D C# C C        | .       F# E . D D C B   |
+| .                         | .                        |
+
+| 0:56 Qué esta enfermedad se cura | si te quedas junto a mi   |
+|----------------------------------|---------------------------|
+| .                                |                           |
+| .                                | .                         |
+| . E - D# E - B G# E F# - C#      | . D# - E F# E - D# F# - E |
+| .                                | .                         |
+~~~
+
+## Coro 1 (1:02) y 2 (1:37)
+
+~~~
 Por eso es que te traigo dedales de oro pétalos del sol
 
 | .               G               |
@@ -132,4 +159,17 @@ Se encuentren los caminos de tu vida y la mía.
 | .                           G# G   |
 | . F F F F E D D D - E F E -      F |
 | . . . . . . . . . . . . .   .  . . |
+~~~
 
+
+## Coro 3 (1:54)
+
+
+## Plantilla
+
+| : | : |
+|---|---|
+| . | . |
+| . | . |
+| . | . |
+| . | . |
