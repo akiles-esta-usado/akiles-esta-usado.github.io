@@ -12,20 +12,26 @@ categories:
 
 ## Acordes
 
-| Acorde | Notas | Charango |
-|--------|-------|----------|
-| A7     |       |          |
-| Bm     |       |          |
-| C7     |       |          |
-| D      |       |          |
-| Dm     |       |          |
-| D/F#   |       |          |
-| F      |       |          |
-| F#7    |       |          |
-| G      |       |          |
-| Gm     |       |          |
-| G#°7/F |       |          |
-|        |       |          |
+Partitura con C# y F#.
+
+| Acorde | Notas                       | Charango |
+|--------|-----------------------------|----------|
+| A7     |                             | 01000    |
+| Bm     | F#(3) B(2) B(5) D(4) F#(1)  | 42222    |
+| C7     |                             | 00010    |
+| D      | F#(3) A(5) D(2) D(4) F#(1)  | 22252    |
+| D/F#   | F#(3) A(5) D(2) D(4) F#(1)  | 22252    |
+| D5+    | F#(3) A#(5) D(2) D(4) F#(1) | 32252    |
+| Dm     | D F A                       | 22101    |
+| Dm(*)  | A(3) D(5) D(2) F(4) A(1)    | 75555    |
+| F      |                             | 20101    |
+| F(*)   | F(3) A(5) A(2) C(4) A(1)    | 20105    |
+| F#7    |                             | 31210    |
+| F#7(*) | F#(3) A#(5) C#(2) E(4) E(1) | 34240    |
+| G      |                             | 02323    |
+| Gm     |                             | 02313    |
+| G#°7/F | F(3) G#(5) B(2) D(4) F(1)   | 12121    |
+| G#°7/D | G#(3) B(5) D(2) F(4) G#(1)  | 45454    |
 
 ## Verso 1 0:00 p41
 ~~~
@@ -35,12 +41,12 @@ Bm                      D
   Todo será distinto no hay que dudar
   G                    A7  D
   No hay que dudar, confía ya vas a ver.
-  Bm                F#7   Bm
+  Bm                F#7(*)Bm
   Porque en iquique todos van a entender.
             
             Em   A7    D/F#
   Toma mujer, mi manta te abrigará
-             Gm     C7      F
+             Gm     C7      F(*)
   Toma al niñito en brazos, no llorará.
   Dm 
   No llorara, confía, va a sonrerí,
@@ -66,9 +72,9 @@ Bm                      D
 
              Em        A7     D/F#
   Dicen que iquique es grande como un salar
-                  Gm   C7      F
+                  Gm   C7      F(*)
   Que hay muchas casas lindas, te gustarán.
-  Dm 
+  Dm(*) 
   Te gustarán, confía como que hay Diós.
   G#°7/D 
   Allá en el puerto todo va a ser mejor.
@@ -89,7 +95,7 @@ Bm                      D
   Porque en iquique todos van a entender
 ~~~
 
-## Quenas
+## Quenas VIII.- Interludio p46
 
 ### Sección 1
 
