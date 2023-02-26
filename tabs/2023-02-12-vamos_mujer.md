@@ -10,6 +10,85 @@ categories:
 
 [Cancion](https://www.youtube.com/watch?v=W3NWMKPG6D8)
 
+## Acordes
+
+| Acorde | Notas | Charango |
+|--------|-------|----------|
+| A7     |       |          |
+| Bm     |       |          |
+| C7     |       |          |
+| D      |       |          |
+| Dm     |       |          |
+| D/F#   |       |          |
+| F      |       |          |
+| F#7    |       |          |
+| G      |       |          |
+| Gm     |       |          |
+| G#°7/F |       |          |
+|        |       |          |
+
+## Verso 1 0:00 p41
+~~~
+Bm                      D
+  Vamos mujer, partamos a la ciudad
+                     Bm
+  Todo será distinto no hay que dudar
+  G                    A7  D
+  No hay que dudar, confía ya vas a ver.
+  Bm                F#7   Bm
+  Porque en iquique todos van a entender.
+            
+            Em   A7    D/F#
+  Toma mujer, mi manta te abrigará
+             Gm     C7      F
+  Toma al niñito en brazos, no llorará.
+  Dm 
+  No llorara, confía, va a sonrerí,
+  G#°7/F   
+  Le cantarás un canto se va a dormir.
+  
+                                          Gm
+  Que es lo que pasa, dime, no calles más.
+~~~
+
+
+## Verso 2 0:57 p43
+
+~~~
+  Bm           D5+    D 
+  Largo camino tienes que recorrer,
+                      Bm 
+  atravesando cerros, vamos mujer.
+  G               A7      D 
+  Vamos mujer, confía que hay que llegar.
+  Bm              F#7    Bm
+  En la ciudad, podremos ver todo el mar.
+
+             Em        A7     D/F#
+  Dicen que iquique es grande como un salar
+                  Gm   C7      F
+  Que hay muchas casas lindas, te gustarán.
+  Dm 
+  Te gustarán, confía como que hay Diós.
+  G#°7/D 
+  Allá en el puerto todo va a ser mejor.
+
+                                          Gm
+  Que es lo que pasa dime, no calles más.
+~~~
+
+## Verso 3 1:46 p45
+~~~
+  Bm              D5+   D 
+  Vamos mujer, partamos a la ciudad,
+                     Bm 
+  Todo será distinto no hay que dudar,
+  G                   A7   D 
+  No hay que dudar, confía ya vas a ver.
+  Bm                F#7   Bm
+  Porque en iquique todos van a entender
+~~~
+
 ## Quenas
 
 ### Sección 1
@@ -100,4 +179,9 @@ categories:
 
 ~~~
 ~~~
+
+
+## Referencias
+
+[Partituras de la Cantata Santa María](http://www.memoriachilena.gob.cl/602/w3-article-54105.html) VII.- Canción pag 41
 
