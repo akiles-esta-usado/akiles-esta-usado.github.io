@@ -14,6 +14,7 @@ categories:
 
 Partitura con C# y F#.
 
+~~~
 | Acorde | Notas                       | Charango |
 |--------|-----------------------------|----------|
 | A7     |                             | 01000    |
@@ -32,9 +33,13 @@ Partitura con C# y F#.
 | Gm     |                             | 02313    |
 | G#°7/F | F(3) G#(5) B(2) D(4) F(1)   | 12121    |
 | G#°7/D | G#(3) B(5) D(2) F(4) G#(1)  | 45454    |
+~~~
 
 ## Verso 1 0:00 p41
+
 ~~~
+| F#7(*) | F#(3) A#(5) C#(2) E(4) E(1) | 34240 |
+
 Bm                      D
   Vamos mujer, partamos a la ciudad
                      Bm
@@ -44,6 +49,10 @@ Bm                      D
   Bm                F#7(*)Bm
   Porque en iquique todos van a entender.
             
+| D/F#   | F#(3) A(5) D(2) D(4) F#(1) | 22252 |
+| F(*)   | F(3) A(5) A(2) C(4) A(1)   | 20105 |
+| G#°7/F | F(3) G#(5) B(2) D(4) F(1)  | 12121 |
+
             Em   A7    D/F#
   Toma mujer, mi manta te abrigará
              Gm     C7      F(*)
@@ -61,6 +70,9 @@ Bm                      D
 ## Verso 2 0:57 p43
 
 ~~~
+| D5+ | F#(3) A#(5) D(2) D(4) F#(1) | 32252 |
+| F#7 |                             | 31210 |
+
   Bm           D5+    D 
   Largo camino tienes que recorrer,
                       Bm 
@@ -69,6 +81,11 @@ Bm                      D
   Vamos mujer, confía que hay que llegar.
   Bm              F#7    Bm
   En la ciudad, podremos ver todo el mar.
+
+| D/F#   | F#(3) A(5) D(2) D(4) F#(1) | 22252 |
+| Dm(*)  | A(3) D(5) D(2) F(4) A(1)   | 75555 |
+| F(*)   | F(3) A(5) A(2) C(4) A(1)   | 20105 |
+| G#°7/D | G#(3) B(5) D(2) F(4) G#(1) | 45454 |
 
              Em        A7     D/F#
   Dicen que iquique es grande como un salar
@@ -85,6 +102,8 @@ Bm                      D
 
 ## Verso 3 1:46 p45
 ~~~
+| D5+    | F#(3) A#(5) D(2) D(4) F#(1) | 32252    |
+
   Bm              D5+   D 
   Vamos mujer, partamos a la ciudad,
                      Bm 
