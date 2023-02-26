@@ -34,13 +34,13 @@ Casi todos los saqué de la guía de Hector Soto.
 ## Notas de Charango
 
 ~~~
-|   | 1  | 2  | 3  | 4  | 5 | 6  | 7 | 8  | 9  | 10 |
-|---|----|----|----|----|---|----|---|----|----|----|
-| E | F  | F# | G  | G# | A | A# | B | C  | C# | D  |
-| A | A# | B  | C  | C# | D | D# | E | F  | F# | G  |
-| E | F  | F# | G  | G# | A | A# | B | C  | C# | D  |
-| C | C# | D  | D# | E  | F | F# | G | G# | A  | A# |
-| G | G# | A  | A# | B  | C | C# | D | D# | E  | F  |
+|   | 0 | 1  | 2  | 3  | 4  | 5 | 6  | 7 | 8  | 9  | 10 |
+|---|---|----|----|----|----|---|----|---|----|----|----|
+| 5 | E | F  | F# | G  | G# | A | A# | B | C  | C# | D  |
+| 3 | A | A# | B  | C  | C# | D | D# | E | F  | F# | G  |
+| 1 | E | F  | F# | G  | G# | A | A# | B | C  | C# | D  |
+| 4 | C | C# | D  | D# | E  | F | F# | G | G# | A  | A# |
+| 2 | G | G# | A  | A# | B  | C | C# | D | D# | E  | F  |
 ~~~
 
 ## 20 Acordes Maj7, M7 y Sensible Tonal. Explicación.
