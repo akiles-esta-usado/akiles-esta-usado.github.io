@@ -1,9 +1,10 @@
 ---
-title: Seminario IELE: Avances en Tecnología y Diseño de Circuitos
+title: Seminario IELE 2023 - Avances en Tecnología y Diseño de Circuitos
 layout: post
 date: \'2023-02-27 12:51:03 -0000\'
 categories:
 - embedded
+- microelectronica
 ---
 
 Presentación organizada por la Universidad de los Andes y el departamento de Ingeniería Eléctrica y Electrónica. El presentador es Carlos Tokunaga, Principal Engineer de Intel y parte del Circuit Research Lab, entre otros logros.

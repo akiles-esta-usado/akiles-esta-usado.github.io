@@ -4,7 +4,7 @@ layout: post
 date: \'2023-02-22 21:40:03 -0000\'
 categories:
 - embedded
-- <CAT1>
+- Jacob Sorber
 ---
 
 Mi youtuber de C favorito, Jacob Sorber, explica el funcionamiento de esta intrincada función estándar, `scanf`. Este video se enfoca en principiantes, pero estoy seguro que todos podemos sacar algo interesante.
