@@ -1,10 +1,10 @@
 ---
-title: <REPLACE_TITLE>
+title: Run Run se fue pal Norte
 layout: post
 date: \'2023-03-12 15:19:50 -0000\'
 categories:
 - tab
-- <BANDA>
+- Inti Illimani
 ---
 
 ~~~
