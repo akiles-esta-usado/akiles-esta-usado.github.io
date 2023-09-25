@@ -9,27 +9,6 @@ categories:
 
 Canción de Amparo Baluarte
 
-~~~
-0:21
-|                                 |
-|---------------------------------|
-| .                               |
-| .             C - B B A B - A   |
-| . C D E - E E                   |
-|---------------------------------|
-|                                 |
-| . C B A - A - G# A   G -        |
-| .                  E     F# E D |
-|---------------------------------|
-| .                               |
-| .           B A G# A G#         |
-| . D E F F F             E       |
-|---------------------------------|
-| .                               |
-| . B A G# A G# A -               |
-| .                 C D - C E D C |
-~~~
-
 ## Verso
 
 ~~~
@@ -48,30 +27,10 @@ Canción de Amparo Baluarte
   Ni sonríen de amor las madre selvas
 ~~~
 
-
-
 ## Coro
 
 ~~~
-|----------------------------------|
-| .                                |
-| .           G A A - G# A B C -   |
-| . F F - E F                    E |
-|----------------------------------|
-| .                                |
-| .                 A - G#         |
-| . D - E D E D E E        E D E C |
-|----------------------------------|
-| .                                |
-| . F F F C F C C A F G A G E G    |
-| . F F F C F C C A F G A G E G    |
-|----------------------------------|
-| .                                |
-| . E B A G# - E B C B - A         |
-| . E B A G# - E B C B - A         |
-~~~
-
-~~~
+1:00
   La canción en mis labios se hizo ruego
   En mis ojos, tu imagen, nubló el llanto (x2).
   
@@ -79,8 +38,7 @@ Canción de Amparo Baluarte
   El corazón, que te ama tanto (x2)
 ~~~
 
-
-## Solo de Guitarra
+## Versos
 
 ~~~
 1:59
@@ -96,4 +54,53 @@ Canción de Amparo Baluarte
   Que con solo pernsarlo me enloquece
   De rodillas se pone el alma mía
   Y mi espiritu enfermo desfallece
+~~~
+
+
+## Armonía en Quena
+
+~~~
+| . E F# G# A B C C B A C# D |
+~~~
+
+
+~~~
+0:21
+|                                 |
+|---------------------------------|
+| .                               |
+| .             C - B B A B - A   |
+| . C D E - E E                   |
+|---------------------------------|
+|                                 |
+| . C B A - A - G# A   G -        |
+| .                  E     F E D  |
+|---------------------------------|
+| .                               |
+| .           B A G# A G#         |
+| . D E F F F             E       |
+|---------------------------------|
+| .                               |
+| . B A G# A G# A -               |
+| .                 C D - C E D C |
+~~~
+
+~~~
+1:00
+|----------------------------------|
+| .                                |
+| .           G A A - G# A B C -   |
+| . F F - E F                    E |
+|----------------------------------|
+| .                                |
+| .                 A - G#         |
+| . D - E D E D E E        E D E C |
+|----------------------------------|
+| .                                |
+| .     A C   C C A   G A G   G    |
+| . F F     F       F       E      |
+|----------------------------------|
+| .                                |
+| .   B A G# -   B C B - A         |
+| . E          E                   |
 ~~~
