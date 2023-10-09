@@ -8,11 +8,16 @@ categories:
 - Los Del Mapocho
 ---
 
+
+| Fundamental | F |
+| Dominante   | C7  |
+
 ~~~
 0:56
   Hay caramba morena, rubia trigueña
   Caramba y a ninguna le hago mueca, si ay ay ay
   Caramba y a ninguna le hago mueca, si ay ay ay
+~~~
   
 ~~~
   Caramba cingane, lanzo pituca

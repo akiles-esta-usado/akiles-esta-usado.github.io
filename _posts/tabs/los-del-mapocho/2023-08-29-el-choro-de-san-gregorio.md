@@ -12,6 +12,7 @@ categories:
 | Dominante   | A7      |
 | Armonía     | Exótico |
 
+~~~
 |-----------|----|----|----|---------------------|
 | Dm (C A#) | A7 | A7 | Dm | Base                |
 |-----------|----|----|----|---------------------|
@@ -19,7 +20,9 @@ categories:
 |-----------|----|----|----|---------------------|
 | Dm        | E  | A  | A7 | Armonía de la letra |
 | A#        | C  | F  | A7 |                     |
+| A#        | C  | F  | A7 |                     |
 |-----------|----|----|----|---------------------|
+~~~
 
 ~~~
 0:12
@@ -29,8 +32,11 @@ C C C N (Piano intenso)
 N N N X
 ~~~
 
+## Coplas
+
 ~~~
 0:36
+  D     E            A
   Al choro de San Gregorio
   Lo querían masacrar
   Lo querían masacrar
@@ -38,7 +44,6 @@ A C C N
 C N N R
 C N 2 N
 ~~~
-
 
 ~~~
 0:54
@@ -49,6 +54,8 @@ C N R C
 N N 3 S
 C R C C
 ~~~
+
+## Seguidillas
   
 ~~~
 1:11
@@ -62,9 +69,9 @@ C N C T
   
 ~~~
 1:29
-  Pa darle fin ay si, la hicieron corta
+  Pa darle fin, ay si, la hicieron corta
   Rajaron yugular, también la aorta
-  Choro, guapo y galán, fue el indio juan
+  Choro, guapo y galán, fue el indio Juan
 C N C N
 C N C C
 N C C N

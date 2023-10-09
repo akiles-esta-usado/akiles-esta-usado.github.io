@@ -30,10 +30,11 @@ C N C N
 C N
 ~~~
 
-
+## Coplas
 
 ~~~
 0:33
+A7
   Caramba de la mar, de la mar se ve mi casa
   Mi casa y de le, y de lejos mi mujer
   Mi casa y de le, y de lejos mi mujer

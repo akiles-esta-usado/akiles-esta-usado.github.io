@@ -10,11 +10,10 @@ categories:
 
 ## Intro
 
-~~~
 | Fundamental | E  |
 | Dominante   | B7 |
-~~~
 
+~~~
 |---|----|-----|-----|
 | E | B7 | B7  | E   |
 |---|----|-----|-----|
@@ -22,6 +21,7 @@ categories:
 | A | B  | E   | E7  |
 | A | B  | E   | B7  |
 |---|----|-----|-----|
+~~~
 
 Creo que hay una ida espúrea a B7 al terminar las coplas y seguidillas
 
@@ -32,11 +32,15 @@ C N N N | En amar no mas temores, que no existen las razones al hablar de corazo
 N C N N
 ~~~
 
+## Coplas
 
 ~~~
 0:44
+B7       E          G#          C#m
   Aunque la, aunque la gente condene
+      A        B                E   E7
   El amor, el amor que han de tener
+E7    A        B                E   B7
   El amor, el amor que han de tener
 N N N N  
 C N N C
@@ -53,6 +57,7 @@ N N N N
 C N N C
 ~~~
 
+## Seguidillas
 
 ~~~
 1:22

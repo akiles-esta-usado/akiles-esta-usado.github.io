@@ -8,20 +8,14 @@ categories:
 - Los Del Mapocho
 ---
 
-Si bien lo anoto como N, uno de los patrones ocupados es un doble corto. Ocurre en la introducción
-
-Muy interesante como crea dos rítmicas para las dos secciones del silencio en 1:36.
-
 | Fundamental | Bm          |
 | Dominante   | F#7         |
-| Armonía     | ... Revisar |
+| Armonía     | Exótica     |
 
-
-
-| Bm | F#7 | F#7 | Bm  |
-|----|-----|-----|-----|
-| Bm | Em  | A   | F#7 |
-|    |     |     |     |
+| Bm (A G) | F#7 | F#7 | Bm  |
+|----------|-----|-----|-----|
+| Bm       | Em  | A   | F#7 |
+|          |     |     |     |
 
 ~~~
 0:36

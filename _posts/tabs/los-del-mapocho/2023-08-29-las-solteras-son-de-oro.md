@@ -12,6 +12,10 @@ categories:
 | Dominante   | D7 |
 
 ~~~
+| G (F D# ) | E7 
+~~~
+
+~~~
 0:02
 S S N N
 N C N -
