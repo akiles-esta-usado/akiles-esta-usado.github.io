@@ -8,6 +8,19 @@ categories:
 - Los Del Mapocho
 ---
 
+| Fundamental | Dm      |
+| Dominante   | A7      |
+| Armonía     | Exótico |
+
+|-----------|----|----|----|---------------------|
+| Dm (C A#) | A7 | A7 | Dm | Base                |
+|-----------|----|----|----|---------------------|
+| A         | Dm | C  | F  | Piano intenso       |
+|-----------|----|----|----|---------------------|
+| Dm        | E  | A  | A7 | Armonía de la letra |
+| A#        | C  | F  | A7 |                     |
+|-----------|----|----|----|---------------------|
+
 ~~~
 0:12
 X C N N
@@ -30,7 +43,7 @@ C N 2 N
 ~~~
 0:54
   Camino a la torre cuatro
-  Se cargaron batacan (?)
+  Se cargaron pa' atacar
   Al choro de san gregorio
 C N R C
 N N 3 S

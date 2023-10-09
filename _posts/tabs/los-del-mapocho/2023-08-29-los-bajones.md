@@ -12,6 +12,10 @@ categories:
 
 Con el asterísco indico donde comienza el pandero de la nomenclatura.
 
+| Fundamental | A#                                |
+| Dominante   | F7                                |
+| Armonía     | Dominante de Dominante A# F7 (C7) |
+
 ~~~
 0:11
 A S N C

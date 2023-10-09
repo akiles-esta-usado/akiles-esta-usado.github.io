@@ -10,6 +10,13 @@ categories:
 
 Bastante de la letra no la entiendo jeje
 
+| Fundamental | Gm |
+| Dominante   | D7 |
+
+|----|----|----|----|
+| Gm | D# | A# | E7 |
+
+
 ~~~
 0:12
 X C N N

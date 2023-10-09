@@ -8,6 +8,18 @@ categories:
 - Los Del Mapocho
 ---
 
+| Fundamental | D  |
+| Dominante   | A7 |
+| Armonía     | Dominante de Dominante (A D7 E)   |
+
+|---|----|----|---|
+| D | A7 | A7 | D |
+|---|----|----|---|
+| D | A  | A7 | D |
+| E | A  | A7 | D |
+| E | A  | A7 | D |
+|---|----|----|---|
+
 ~~~
 0:00
 A C C C

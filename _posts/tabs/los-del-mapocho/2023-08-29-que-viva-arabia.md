@@ -8,6 +8,9 @@ categories:
 - Los Del Mapocho
 ---
 
+| (1) Fundamental | A |
+| (5) Dominante   | G |
+
 En esta canción, el sonido de la agitación se integra de manera genial al ritmo principal.
 
 ~~~
@@ -117,4 +120,5 @@ C C C X
 
 
 Referencias:
-- (Sesión en vivo)[https://www.youtube.com/watch?v=DM9rd3lsScg]
+- [Sesión en vivo](https://www.youtube.com/watch?v=DM9rd3lsScg)
+- [Chordify](https://chordify.net/es/chords/los-del-mapocho-pata-mora-morena-como-el-canto-del-beduino-que-viva-arabia-los-del-mapocho)

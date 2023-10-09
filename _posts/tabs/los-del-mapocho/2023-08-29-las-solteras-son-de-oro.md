@@ -8,6 +8,9 @@ categories:
 - Los Del Mapocho
 ---
 
+| Fundamental | G  |
+| Dominante   | D7 |
+
 ~~~
 0:02
 S S N N
