@@ -10,8 +10,6 @@ categories:
 
 ## Introducción
 
-Con el asterísco indico donde comienza el pandero de la nomenclatura.
-
 | Fundamental | A#                                |
 | Dominante   | F7                                |
 | Armonía     | Dominante de Dominante A# F7 (C7) |
@@ -27,7 +25,6 @@ N N C N
 
 ~~~
 0:40
-                  *
   Le tengó, le tengo buenos bajones: churasco, lomito, ases y completo
   pa llenarle la guatita: churasco, lomito, ases y completo
   pa llenarle la guatita
@@ -39,7 +36,6 @@ N N T R
 
 ~~~
   0:59
-                 *
   Italia, Italiano choripanes, churasco, lomito, ases y completo.
   Si quiere deja propina, churasco, lomito, ases y completo.
   Le tengo buenos bajones

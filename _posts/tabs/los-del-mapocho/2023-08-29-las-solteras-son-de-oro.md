@@ -29,8 +29,11 @@ C N
 
 ~~~
 0:32
+D7                                G                         D7
   Ay caramba las solteras, las solteras son de oro. Dame un beso, allava
+D7                           G                        D7
   Caramba las casadas, las casadas son de plata. Dame ya la pasa
+D7                           G                        D7
   Caramba las casadas, las casadas son de plata. Dame ya la pasa
 N N C N
 N N C N
