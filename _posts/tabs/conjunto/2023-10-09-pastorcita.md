@@ -30,7 +30,7 @@ Em               G
   Una linda pastorcita      era muy feliz
 Em                   G                          
   Un dia un desconocido,    que bonito que le habló
-                      G               Em
+                      D               Em
   Diciendole mil promesas   Y se enamoró
 ~~~
 
