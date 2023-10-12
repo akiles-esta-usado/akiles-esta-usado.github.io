@@ -7,6 +7,8 @@ categories:
 - Conjunto Folklórico PUCV
 ---
 
+# Despedida de Pueblo
+ 
 ~~~
 |----|---|----|----|--------------------|
 | Em | G | B7 | Em | Primera Repetición |

@@ -35,9 +35,9 @@ Em         C             G
   Hay un lorito con su monito
            C             G
   Hay un lorito con su monito
-          G    D7       G
+               A        G
   Es un regalo de San Benito
-          G       B7       Em
+                  B7       Em
   Para la fiesta, de los negritos
 ~~~
 
