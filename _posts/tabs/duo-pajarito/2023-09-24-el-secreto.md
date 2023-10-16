@@ -1,11 +1,15 @@
 ---
-title: <REPLACE_TITLE>
+title: El Secreto
 layout: post
 date: \'2023-09-24 17:15:00 -0000\'
 categories:
 - tab
-- <BANDA>
+- Dúo Pajarito
 ---
+
+# El Secreto
+
+Canción de Amparo Baluarte
 
 ~~~
 En esta tarde triste yo te espero

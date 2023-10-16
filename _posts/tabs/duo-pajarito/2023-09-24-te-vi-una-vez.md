@@ -1,11 +1,13 @@
 ---
-title: Duo Pajarito
+title: Te vi una vez
 layout: post
 date: \'2023-09-24 17:21:12 -0000\'
 categories:
 - tab
 - Dúo Pajarito
 ---
+
+# Te vi una vez
 
 Canción de Serafina Quinteras y Eduardo Márquez Talledo
 

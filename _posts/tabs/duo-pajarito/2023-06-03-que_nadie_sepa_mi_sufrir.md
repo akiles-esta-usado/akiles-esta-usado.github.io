@@ -4,9 +4,12 @@ layout: post
 date: \'2023-06-03 11:38:35 -0000\'
 categories:
 - tab
-- Julio Jaramillo
-- Duo Pajarito
+- Dúo Pajarito
 ---
+
+# Que Nadie Sepa mi Sufrir
+
+Canción de Julio Jaramillo
 
 ## Verso
 
@@ -59,39 +62,39 @@ categories:
 
 ~~~
 | No te asombres si te digo ..        |
-|-------------------------------------|
+| ----------------------------------- |
 | D D G - G - G A A# - A - G F G - D# |
 
-| Un ingrata con mi pobre             |
-|-------------------------------------|
-| A A# B - A# A A# B - A# A G F       |
+| Un ingrata con mi pobre       |
+| ----------------------------- |
+| A A# B - A# A A# B - A# A G F |
 
 
 | Porque el fuego de tus lindos ojos negros |
-|-------------------------------------------|
+| ----------------------------------------- |
 | D D F - F F F F - G A - A A# - A G D      |
 
 | Alumbraron el camino de otro amor |
-|-----------------------------------|
+| --------------------------------- |
 | A# A A - F F - D D - C D - C A#   |
 
 | Porque el fuego de tus lindos ojos negros |
-|-------------------------------------------|
+| ----------------------------------------- |
 | D D F - F F F F - G A - A A# - A G D      |
 
 | Alumbraron el camino de otro amor |
-|-----------------------------------|
+| --------------------------------- |
 | A# A A - F F - D D - C A# - A G   |
 
 
 
 | Amor de mis amores, reina mia, ¿Qué me hiciste? |
-|-------------------------------------------------|
+| ----------------------------------------------- |
 | F (X?) A G - G F - A G - G F - A# G             |
 
 | Que no puedo conformarme sin poderte contemplar |
-|-------------------------------------------------|
-| G F A# G G F A - G G F A - G F D# D              |
+| ----------------------------------------------- |
+| G F A# G G F A - G G F A - G F D# D             |
 
 | Ya que pagaste mal, mi cariño tan sincero |
 | D (x?) F - F - G A A A# - A - G D         |

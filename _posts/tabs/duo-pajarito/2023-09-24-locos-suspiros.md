@@ -7,11 +7,13 @@ categories:
 - Dúo Pajarito
 ---
 
+# Locos Suspiros
+
 ~~~
 0:15
-|        |   |
-|--------|---|
-| F F D# |   |
+|        |     |
+| ------ | --- |
+| F F D# |     |
 
 ~~~
 
