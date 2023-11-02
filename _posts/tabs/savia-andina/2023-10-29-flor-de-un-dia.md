@@ -9,6 +9,8 @@ categories:
 
 # Flor de un Día
 
+Autoría de Oscar Castro
+
 ## Quena
 
 ~~~
