@@ -32,7 +32,7 @@ N N C N
 F7      A#                    F7                                  A#
   Le tengó, le tengo buenos bajones: churrasco, lomito, ases y completo
      C              F7                                A#
-  pa llenarle la guatita: churasco, lomito, ases y completo
+  pa llenarle la guatita: churrasco, lomito, ases y completo
      C              F7
   pa llenarle la guatita
 
@@ -44,9 +44,9 @@ N N T R
 ~~~
   0:59
 F7     A#               F7                                 A#
-  Italia, Italiano choripanes, churasco, lomito, ases y completo.
+  Italia, Italiano choripanes, churrasco, lomito, ases y completo.
      C              F7                                A#
-  Si quiere deja propina, churasco, lomito, ases y completo.
+  Si quiere deja propina, churrasco, lomito, ases y completo.
      C              F7
   Le tengo buenos bajones
 C N C N 

@@ -13,10 +13,11 @@ categories:
 | Dominante   | F#7         |
 | Armonía     | Exótica     |
 
-| Bm (A G) | F#7 | F#7 | Bm  |
-|----------|-----|-----|-----|
-| Bm       | Em  | A   | F#7 |
-|          |     |     |     |
+| Bm (A G) | F#7  | F#7 | Bm  |
+|----------|------|-----|-----|
+| Bm       | Em   | A   | F#7 |
+| Gm       | Fdim | Em  | F#7 |
+| Gm       | Fdim | Em  | F#7 |
 ~~~
 
 
