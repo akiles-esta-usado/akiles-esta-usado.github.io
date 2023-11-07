@@ -14,6 +14,12 @@ categories:
 | Fundamental | A#                                |
 | Dominante   | F7                                |
 | Armonía     | Dominante de Dominante A# F7 (C7) |
+
+| A# | F7 | F7 | A# |
+|----|----|----|----|
+| A# | F7 | F7 | A# |
+| C  | F7 | F7 | A# |
+| C  | F7 | F7 | A# |
 ~~~
 
 ~~~
