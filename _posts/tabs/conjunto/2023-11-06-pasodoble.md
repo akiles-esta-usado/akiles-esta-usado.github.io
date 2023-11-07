@@ -1,5 +1,5 @@
 ---
-title: Pasodoble
+title: Bella Morena (Pasodoble)
 layout: post
 date: \'2023-11-06 22:44:58 -0000\'
 categories:
@@ -7,7 +7,7 @@ categories:
 - Conjunto Folklórico PUCV
 ---
 
-# Pasodoble
+# Bella Morena
 
 ## Introducción
 
@@ -38,7 +38,3 @@ categories:
 ## Estructura
 
 La canción se repite dos veces.
-
-
-Referencias:
-- No se como se llama la canción :(
