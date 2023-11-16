@@ -14,9 +14,9 @@ Los videos de youtube le llaman "Cacharpaya del Carnaval", aunque en una versió
 ## Introducción
 
 ~~~
-| Am        | Am  | Am    | E7 Am | Am | Ya se van los carnavales |
-| ¿ Am E7 ? | C F | F     | G7 C  | C  | Triste y solo mi corazón |
-| F C       | C   | E7 Am | Am    |    | Ya se van por la alameda |
+| Am    | Am | Am | E7    | Am | Am |   |   |
+| Am E7 | C  | F  | F     | G7 | C  | C | C |
+| F     | C  | C  | E7 Am | Am |    |   |   |
 ~~~
 
 ## Verso 1
