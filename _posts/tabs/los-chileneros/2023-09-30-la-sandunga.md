@@ -7,28 +7,52 @@ categories:
 - Los Chileneros
 ---
 
+# La Sandunga
+
 ~~~
-Que me gusta la sandunga
-Cuando me tocan el piano
-Cuando me tocan el piano
+| A  | E | E | A |
+|----|---|---|---|
+| A  | E | E | A |
+| B7 | E | E | A |
+| B7 | E | E | A |
+~~~
+
+## Copla
+
+~~~
+A                    E
+  Que me gusta la sandunga
+    A       B7       E
+  Cuando me tocan el piano
+    A       B7       E
+  Cuando me tocan el piano
 ~~~
 
 ~~~
-Cuando se canta a la rueda
-Y la salida es por mano
-Que me gusta la sandunga
+E        A             E
+  Cuando se canta a la rueda
+  A      B7          E
+  Y la salida es por mano
+  A         B7       E
+  Que me gusta la sandunga
+~~~
+
+## Copla
+
+~~~
+E               A                 E
+  Me gusta la pimienta, cuando floreo
+                A     B7      E
+  Al pegar el balido, la gorgoreo
+                A       B7        E
+  Me gusta la pimienta, cuando floreo
 ~~~
 
 ~~~
-Me gusta la pimienta, cuando floreo
-Al pegar el balido, la gorgoreo
-Me gusta la pimienta, cuando floreo
+  La gorgoreo si, no hay como el pito
+  Del cantor garnachero, que anuncia el grito
+  Me gusta la manteca, pero en la cueca
 ~~~
 
-~~~
-La gorgoreo si, no hay como el pito
-Del cantor garnachero, que anuncia el grito
-Me gusta la manteca, pero en la cueca
-~~~
 Referencias:
 - 
