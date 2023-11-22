@@ -7,9 +7,15 @@ categories:
 - Savia Andina
 ---
 
+# Verbenita
+
+Compuesta por Teófilo Vargas
+
 ~~~
 | Dm | C | Dm | C | Dm |
 ~~~
+
+## Verso
 
 ~~~
   F   C     F         C   F

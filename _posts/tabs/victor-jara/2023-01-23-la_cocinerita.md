@@ -7,7 +7,6 @@ categories:
 - Victor Jara
 ---
 
-
 # La Cocinerita
 
 En charango esta canción puede tocarse con capo en 3er traste o sin el, en ambos, los acordes son sencillos.

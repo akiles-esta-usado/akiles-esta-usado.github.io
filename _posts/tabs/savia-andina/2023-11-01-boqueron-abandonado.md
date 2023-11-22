@@ -30,11 +30,41 @@ La primera vez, el primer Em no se toca.
 
 ~~~
 0:52
-| C | D7 G   | D7 G | B7 Em |
-| C | D7 G   | D7 G | B7 Em |
-|---|--------|------|-------|
-| C | C D7 G | D7 G | B7 Em |
-| G | B7 Em  | G    | B7 Em |
+| C  | D7 G    | D7 G | B7 Em |
+| C  | D7 G    | D7 G | B7 Em |
+|----|---------|------|-------|
+| Em | Em D7 G | D7 G | B7 Em |
+| G  | B7 Em   | G    | B7 Em |
+~~~
+
+## Letra de Jenny Cárdenas
+
+~~~
+  No me llores si la muerte, cava un abismo entre los dos
+  Yo no se si por quererte, debo olvidarme hasta de Dios
+  Ausente de ti, mi dulce amor te dice adiós
+  Ausente de ti, mi dulce amor te dice adiós
+  
+  Si el capricho de la suerte, me deparo tan triste fin
+  Para mi, la misma muerte será un hermoso verde jardín
+  Allí brotará mi pobre amor, blanco jazmín.
+  Allí brotará mi pobre amor, blanco jazmín.
+  
+  (Parte B)
+  
+  No me pagarás en vida que me des la muerte que me doy
+  No me pagarás en vida que me des la muerte que me doy
+  Abandonado de tu amor, lejos de ti yo moriré.
+  Lejos de ti, yo moriré.
+  Bolivia, he de luchar lejos de aquí
+  Bolivia, he de luchar, desepués morir, morir.
+  
+  
+  Boquerón abandonado, sin comando ni refuerzo
+  Boquerón abandonado, sin comando ni refuerzo
+  
+  Eres la gloria, del soldado boliviano
+  Eres la gloria, del soldado boliviano
 ~~~
 
 ## Referencias

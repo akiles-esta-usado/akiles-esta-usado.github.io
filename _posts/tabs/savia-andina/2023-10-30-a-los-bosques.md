@@ -11,6 +11,8 @@ categories:
 
 La canción original se encuentra desafinada, se corrije al bajar 0.35 semitonos.
 
+Fue compuesta por Alberto Ruiz Lavadenz inspirado por la guerra del Chaco.
+
 | Acordes | C F A Dm |
 
 ## Verso

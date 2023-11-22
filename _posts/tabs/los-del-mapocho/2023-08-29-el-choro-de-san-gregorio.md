@@ -8,12 +8,15 @@ categories:
 - Los Del Mapocho
 ---
 
+# El Choro de San Gregorio
+
+~~~
 | Fundamental | Dm      |
 | Dominante   | A7      |
 | Armonía     | Exótico |
+~~~
 
 ~~~
-|-----------|----|----|----|---------------------|
 | Dm (C A#) | A7 | A7 | Dm | Base                |
 |-----------|----|----|----|---------------------|
 | A         | Dm | C  | F  | Piano intenso       |
@@ -21,7 +24,6 @@ categories:
 | Dm        | E  | A  | A7 | Armonía de la letra |
 | A#        | C  | F  | A7 |                     |
 | A#        | C  | F  | A7 |                     |
-|-----------|----|----|----|---------------------|
 ~~~
 
 ~~~

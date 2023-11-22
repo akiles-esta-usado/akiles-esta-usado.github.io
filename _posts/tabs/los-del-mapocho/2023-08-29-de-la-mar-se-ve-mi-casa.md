@@ -34,10 +34,12 @@ C N
 
 ~~~
 0:33
-A7
+A7                         D            A7
   Caramba de la mar, de la mar se ve mi casa
-  Mi casa y de le, y de lejos mi mujer
-  Mi casa y de le, y de lejos mi mujer
+               D           E         A7
+  Mi casa y de le', y de lejos mi mujer
+               D           E         A7
+  Mi casa y de le', y de lejos mi mujer
 C N N C
 C N C R
 C C C T
