@@ -5,7 +5,7 @@ date: \'2023-08-29 19:27:30 -0000\'
 categories:
 - tab
 - cueca
-- Los Del Mapocho
+- Los del Mapocho
 ---
 
 ## Intro
@@ -14,13 +14,11 @@ categories:
 | Dominante   | B7 |
 
 ~~~
-|---|----|-----|-----|
-| E | B7 | B7  | E   |
-|---|----|-----|-----|
-| E | G# | C#m | E7  |
-| A | B  | E   | E7  |
-| A | B  | E   | B7  |
-|---|----|-----|-----|
+| E   | B7   | B7    | E     |
+|-----|------|-------|-------|
+| E   | G#   | C#m   | E7    |
+| A   | B    | E     | E7    |
+| A   | B    | E     | B7    |
 ~~~
 
 Creo que hay una ida espúrea a B7 al terminar las coplas y seguidillas
