@@ -5,13 +5,13 @@ date: \'2023-08-29 19:29:31 -0000\'
 categories:
 - tab
 - cueca
-- Los Del Mapocho
+- Los del Mapocho
 ---
 
-| (1) Fundamental | A |
-| (5) Dominante   | G |
-
-En esta canción, el sonido de la agitación se integra de manera genial al ritmo principal.
+~~~
+| Fundamental | A |
+| Dominante   | G |
+~~~
 
 ~~~
 0:48

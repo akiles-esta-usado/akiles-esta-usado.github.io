@@ -5,7 +5,7 @@ date: \'2023-08-29 19:27:50 -0000\'
 categories:
 - tab
 - cueca
-- Los Del Mapocho
+- Los del Mapocho
 ---
 
 | Fundamental | D  |

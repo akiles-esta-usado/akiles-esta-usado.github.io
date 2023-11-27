@@ -5,13 +5,15 @@ date: \'2023-08-29 19:28:06 -0000\'
 categories:
 - tab
 - cueca
-- Los Del Mapocho
+- Los del Mapocho
 ---
 
-Bastante de la letra no la entiendo jeje
+# Desprecio Tanto la Vida
 
+~~~
 | Fundamental | Gm |
 | Dominante   | D7 |
+~~~
 
 ~~~
 |------------|----|----|----|
@@ -31,6 +33,8 @@ N C N N
 C C N 2
 N C N C
 ~~~
+
+## Coplas
 
 ~~~
 0:42
@@ -58,6 +62,7 @@ C N N T
 C N N C
 ~~~
 
+## Seguidillas
 
 ~~~
 1:19

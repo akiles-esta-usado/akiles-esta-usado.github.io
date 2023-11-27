@@ -5,7 +5,7 @@ date: \'2023-08-29 19:28:21 -0000\'
 categories:
 - tab
 - cueca
-- Los Del Mapocho
+- Los del Mapocho
 ---
 
 # El Choro de San Gregorio

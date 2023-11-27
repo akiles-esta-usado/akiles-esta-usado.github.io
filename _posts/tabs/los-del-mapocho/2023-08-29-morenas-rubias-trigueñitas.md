@@ -5,7 +5,7 @@ date: \'2023-08-29 19:29:24 -0000\'
 categories:
 - tab
 - cueca
-- Los Del Mapocho
+- Los del Mapocho
 ---
 
 
@@ -14,7 +14,9 @@ categories:
 
 ~~~
 0:56
+F                 Bb  A7       Dm
   Hay caramba morena, rubia trigueña
+  Bbm
   Caramba y a ninguna le hago mueca, si ay ay ay
   Caramba y a ninguna le hago mueca, si ay ay ay
 ~~~
