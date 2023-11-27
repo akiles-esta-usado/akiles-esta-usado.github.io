@@ -4,7 +4,7 @@ layout: post
 date: \'2023-11-06 23:49:45 -0000\'
 categories:
 - tab
-- Conjunto Floklórico PUCV
+- Conjunto Folklórico PUCV
 ---
 
 # Las Heladas

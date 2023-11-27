@@ -4,7 +4,7 @@ layout: post
 date: \'2023-10-30 01:06:54 -0000\'
 categories:
 - tab
-- Conjunto Folclkórico PUCV
+- Conjunto Folklórico PUCV
 ---
 
 # El Balambito
