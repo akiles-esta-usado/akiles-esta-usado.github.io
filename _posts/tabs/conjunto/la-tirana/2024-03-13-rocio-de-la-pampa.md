@@ -36,6 +36,8 @@ categories:
 | .                 Dm |
 ~~~
 
+## Acordes
+
 ## Verso
 
 ~~~
@@ -77,6 +79,28 @@ Dm            D7      Gm    C          F
   Y que la luz de tu hijo alumbre siempre, siempre más.
             A7         Dm          A7            Dm  Gm A7
   Hoy yo te vengo a cantar, a ti reina del tamarugal
+~~~
+
+
+## Solo Acordes
+
+~~~
+| Dm D7 | Gm     | C7    | F     |                    |
+| Gm    | Dm     | A# E7 | A7    |                    |
+| Gm    | Dm     | E7    | A7    |                    |
+| A7    | Dm     | -     | -     |                    |
+|-------|--------|-------|-------|--------------------|
+| Dm    | D7  Gm | C     | F     |                    |
+| F     | E7     | A7    | Dm    |                    |
+| Dm    | D7  Gm | C7    | F     |                    |
+| F     | E7     | A7    | Dm    |                    |
+| A7    | Dm     | A7    | Dm    |                    |
+| F A7  |        |       |       |                    |
+|-------|--------|-------|-------|--------------------|
+| Dm    | D7     | Gm    | Gm    | Canta y baila ..   |
+| C     | C      | F     | A7    | Que detrás del...  |
+| Dm    | Dm     | E7    | E7    | Que la multitud... |
+| A7    | A7     | Dm    | Gm A7 | A la madre...      |
 ~~~
 
 
