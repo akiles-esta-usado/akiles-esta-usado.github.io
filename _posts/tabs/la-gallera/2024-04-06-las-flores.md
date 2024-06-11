@@ -17,10 +17,12 @@ categories:
 | G  | B7 | B7 | Em | Bajada al tema         |
 |----|----|----|----|------------------------|
 | D  | G  | C  | B7 | Las flores y un abrazo |
-| Am | Em | C  | B7 |                        |
+| Am | Em | C  | B7 | (Solo mitad de copla)  |
 | Am | Em | C  | B7 |                        |
 |----|----|----|----|------------------------|
 | Em | G  | C  | B7 | Queda en esto          |
+| Am | Em | C  | B7 |                        |
+| Am | Em | C  | B7 |                        |
 ~~~
 
 ## Concepto

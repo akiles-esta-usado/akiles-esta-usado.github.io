@@ -51,7 +51,7 @@ Dm                  F       C7/G              F
 
 ~~~
    Dm              F          C7/G           F  A7
-  Unamonos como hermanos, que nadie nos vencerá
+  Unámonos como hermanos, que nadie nos vencerá
      Dm             F         C7/G            F    A7
   Si quieren esclavizarnos, jamás lo podrán lograr
      Dm             Bb        C7/G                 F
@@ -79,7 +79,7 @@ Dm                  F       C7/G              F
 
 ~~~
    F                          C7/G           F  F5+/A
-  Unamonos como hermanos, que nadie nos vencerá
+  Unámonos como hermanos, que nadie nos vencerá
      Dm             F         C7/G            F
   Si quieren esclavizarnos, jamás lo podrán lograr
      Dm             Bb        C7/G                 F
@@ -94,7 +94,7 @@ Dm                  F       C7/G              F
 
 ~~~
    Dm      F5+/A   F          C7/G           F  F5+/A
-  Unamonos como hermanos, que nadie nos vencerá
+  Unámonos como hermanos, que nadie nos vencerá
      Dm             F         C7/G            F    A7
   Si quieren esclavizarnos, jamás lo podrán lograr
      Dm             Bb        C7/G                 F
@@ -116,11 +116,11 @@ Dm                  F       C7/G              F
 
 ~~~
    Bb              G#°7/F     E7             Gm
-  Unamonos como hermanos, que nadie nos vencerá
+  Unámonos como hermanos, que nadie nos vencerá
      Gm6            Dm        A7              Dm
   Si quieren esclavizarnos, jamás lo podrán lograr
    Bb              G#°7/F     F              Gm
-  Unamonos como hermanos, que nadie nos vencerá
+  Unámonos como hermanos, que nadie nos vencerá
      Gm6            Dm        A7              Dm
   Si quieren esclavizarnos, jamás lo podrán lograr
      Gm6            Dm        A7              Dm

@@ -9,29 +9,24 @@ categories:
 
 # Para Seguir Viviendo
 
-|   1   |     2      |    3     |   4   |
-| :---: | :--------: | :------: | :---: |
-|   A   |     E      |   D/F#   | . F#m |
-|  Bm   |    Bm/A    |    E     |       |
-| A - E | D/F# - F#m | Bm  Bm/A |   E   |
-
-|   1   |   2   |   3   |   4   |
-| :---: | :---: | :---: | :---: |
-| D/F#  | E/G#  |   A   | . E/G#  |
-| D/F#  |   E   |   A   |       |
-|   A   |   E   | D/F#  |       |
-| D/F#  |   E   |   A   |       |
-
-
-|  1.3  |    1.3     |   1.3    |  1.3   |
-| :---: | :--------: | :------: | :----: |
-|   A   |     E      |   D/F#   | . F#m  |
-|  Bm   |    Bm/A    |    E     |        |
-| A - E | D/F# - F#m | Bm  Bm/A |   E    |
-| D/F#  |    E/G#    |    A     | . E/G# |
-| D/F#  |     E      |    A     |        |
-|   A   |     E      |   D/F#   |        |
-| D/F#  |     E      |    A     |        |
+~~~
+| A     | E          | D/F#     | . F#m  |
+| Bm    | Bm/A       | E        |        |
+| A - E | D/F# - F#m | Bm  Bm/A | E      |
+|-------|------------|----------|--------|
+| D/F#  | E/G#       | A        | . E/G# |
+| D/F#  | E          | A        |        |
+| A     | E          | D/F#     |        |
+| D/F#  | E          | A        |        |
+|-------|------------|----------|--------|
+| A     | E          | D/F#     | . F#m  |
+| Bm    | Bm/A       | E        |        |
+| A - E | D/F# - F#m | Bm  Bm/A | E      |
+| D/F#  | E/G#       | A        | . E/G# |
+| D/F#  | E          | A        |        |
+| A     | E          | D/F#     |        |
+| D/F#  | E          | A        |        |
+~~~
 
 
 ## Versos
@@ -88,6 +83,7 @@ D A
 
 ## Verso
 
+~~~
 A        E                D/F#  F#m
   Las llamas que trae el viento
 Bm           Bm/A    E
@@ -96,7 +92,9 @@ A  E  D/F#  F#m Bm Bm/A  E
 Levantan  una muralla
 D/F#     E              A
   Con bencina y con metralla
+~~~
 
+~~~
 A        E             D/F#   F#m
   Las llamas ya no son llamas
 Bm         Bm/A         E
@@ -111,7 +109,7 @@ A         E         D/F#
   Rodrigo Rojas en llamas
 D/F#    E            A
   Tu voz seguirá viviendo.
-
+~~~
 
 Referencias:
 - Songbook de Illapu

@@ -24,29 +24,43 @@ categories:
 
 ## Coplas
 
+Anotaré toda la canción en un tono que a mi me acomoda, en realidad es en E - B7
+
 ~~~
+G7      C          E
   Hay cariño, si supieras
+         F               Dm                G
   Que no puedo estar sin verte, te extraño tanto
+         F               Dm                G
   Que no puedo estar sin verte, te extraño tanto
 ~~~
 
 ~~~
+C                    E
   Que no existe primavera
+         F              Dm                G
   Cuando tu no estás presente, te extraño tanto
+        F         Dm                 G
   Hay cariño si supieras, te extraño tanto
 ~~~
 
 ## Seguidillas
 
 ~~~
+                   C              E
   Como olvidar tus ojos que me cautivan
+                   F               Dm                G     E
   Como el claro de luna, cuando me miras, te extraño tanto
+                   F              Dm                G
   Como olvidar tus ojos que me cautivan. te extraño tanto
 ~~~
 
 ~~~
+                  C              E
   Cuando me miran, si si, mágico sueño
+                 F                Dm                G
   Porque eres mi delirio, y no lo niego, te extraño tanto
+                    C                E
   Si yo no vuelvo a verte, me das la muerte.
 ~~~
 
