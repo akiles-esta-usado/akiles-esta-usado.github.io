@@ -38,6 +38,7 @@ Dm - C
 
 ## Verso 1
 
+~~~
 Bm                A
 El chango norte potosino
                            Bm
@@ -55,6 +56,7 @@ G                    A
 atras dejo lo altiplanico
 F#m                       Bm
 cuando por fin llegó hasta paris
+~~~
 
 
 
@@ -64,6 +66,7 @@ cuando por fin llegó hasta paris
 ## Verso 2
 
 
+~~~
 Cm                A#
 El chango norte potosino
                            Cm
@@ -81,6 +84,7 @@ G#                    A#
 y entre el cupido mas étnico
 Gm                       Cm
 inicia lazos amorosos
+~~~
 
 
 ## Instrumental
@@ -88,6 +92,7 @@ inicia lazos amorosos
 
 ## Verso 3
 
+~~~
 Cm                A#
 El chango norte potosino
                            Cm
@@ -105,6 +110,7 @@ G#                    A#
 pero el enredo lingüistico
 Gm                       Cm
 causa problemas folkloricos
+~~~
 
 
 ## Instrumental
@@ -112,6 +118,7 @@ causa problemas folkloricos
 
 ## Verso 4
 
+~~~
 Cm                A#
 El chango norte potosino
                            Cm
@@ -129,10 +136,12 @@ G#                    A#
 cayendo en lo narcotico
 Gm                       Cm
 con sus variaciones sexuales
+~~~
 
 
 ## Verso 5
 
+~~~
 Cm                A#
 El chango norte potosino
                            Cm                          
@@ -150,6 +159,7 @@ G#                    A#
 toca su charango mítico
 Gm                       Cm
 para el último tinku en Paris.
+~~~
 
 
 
@@ -157,6 +167,7 @@ para el último tinku en Paris.
 
 ## Verso 1
 
+~~~
 El chango norte potosino
 ya se ha marchado a las europas
 se fue buscando su destino
@@ -166,9 +177,11 @@ con su charango se fue feliz
 sentado en un transatlantico
 atras dejo lo altiplanico
 cuando por fin llegó hasta paris
+~~~
 
 ## Verso 2
 
+~~~
 El chango norte potosino
 toca en las calles y las plazas
 se va llenando los bolsillos
@@ -178,9 +191,11 @@ Unos ojitos muy curiosos
 miran al indio auténtico
 y entre el cupido mas étnico
 inicia lazos amorosos
+~~~
 
 ## Verso 3
 
+~~~
 El chango norte potosino
 con poncho, trenza y con sombrero
 ante la gente de andar fino
@@ -190,9 +205,11 @@ le hace a la gringa dos inditos
 uno gringo y otro típico
 pero el enredo lingüistico
 causa problemas folklóricos
+~~~
 
 ## Verso 4
 
+~~~
 El chango norte potosino
 después de amar de maravilla
 ve que se rompe su destino
@@ -202,9 +219,11 @@ Quiere olvidarse de sus males
 entrandole a lo etílico
 cayendo en lo narcótico
 con sus variaciones sexuales
+~~~
 
 ## Verso 5
 
+~~~
 El chango norte potosino
 anoche ha dormido en el metro
 mira más claro su camino
@@ -214,3 +233,4 @@ al ver que ha sido muy infeliz
 al ser honesto y romántico
 toca su charango mítico
 para el último tinku en Paris.
+~~~
