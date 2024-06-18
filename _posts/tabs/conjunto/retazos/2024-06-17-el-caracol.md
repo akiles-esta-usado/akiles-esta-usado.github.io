@@ -48,12 +48,12 @@ G         B7             Em
 ## Seguidillas
 
 ~~~
-G                 B7               Em
-  Se enamoran las rosas de los colores
+G               B7               Em
+  Se enamora la rosa, de los colores
                       D7                         G
   Porque Dios te hizo reina, rosita, reina de flores
-                  D7                        G
-  Se enamoran las rosas, rosita, de los colores
+                D7                       G
+  Se enamora la rosa, rosita, de los colores
 ~~~
 
 ~~~
@@ -64,7 +64,7 @@ G                  B7            Em
                  B7                     C
   Ahora pa' enamorarse, hay que enroscarse
                        B7                        Em
-  Como el caracol, caracol, saca tus cachito' al sol
+  Como el caracol, caracol, saca tu' cachito' al sol
 ~~~
 
 ## Referencias
