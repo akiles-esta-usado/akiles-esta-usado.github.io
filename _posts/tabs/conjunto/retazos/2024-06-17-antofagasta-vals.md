@@ -26,7 +26,7 @@ categories:
 | C    |      |       | Dm  | Hay momentos en la vida ...     |
 | Dm   | G    | G F   | C   | Oh! que mala estrella ...       |
 | C    |      | A7    | Dm  | Por qué habré nacido ...        |
-| F    | C    | Em G  | C   | No hay remedio para mí ...      |
+| F    | C    | Dm G  | C   | No hay remedio para mí ...      |
 |------|------|-------|-----|---------------------------------|
 | F C  | F    | Bb D7 | Gm  | Mas que haré yo ...             |
 | F D7 | Gm   | F C   | F   | Olvidar la mujer amada ...      |
