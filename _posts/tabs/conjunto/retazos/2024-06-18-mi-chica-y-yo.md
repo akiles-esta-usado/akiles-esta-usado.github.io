@@ -10,6 +10,16 @@ categories:
 
 # Mi Chica y Yo
 
+## Acordes
+
+~~~
+| C7   | F      | C7 | F |
+| A7   | Dm     | G  | C |
+|------|--------|----|---|
+| C7   | F      | C7 | F |
+| F F7 | Bb Bbm | C7 | F |
+~~~
+
 ## Verso A
 
 ~~~
@@ -39,3 +49,4 @@ F           C                 F
 ## Referencias
 
 - [Versión de los tres](https://www.youtube.com/watch?v=KnHHW87Lcb4)
+- [En vivo](https://youtu.be/rcgrJZa9jbM?si=DCEywo4VUFY7f1QC)

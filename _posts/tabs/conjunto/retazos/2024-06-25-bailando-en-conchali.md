@@ -25,7 +25,12 @@ categories:
 | G    | C | G | C     |
 | G    | C | G | G . F |
 | G7 C | C |   |       |
-Acá es raro
+
+
+| 2   | 2 | 2 |
+|-----|---|---|
+| G F | G | C |
+
 G F G7 G7 C
 ~~~
 
