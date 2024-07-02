@@ -10,6 +10,14 @@ categories:
 
 # Besame Mucho
 
+## Acordes
+
+~~~
+| Am | Em | Am | Em |
+| Am | Em | A  | D  |
+| Am | Em | B7 | Em |
+~~~
+
 ## Verso A
 
 ~~~
@@ -28,7 +36,7 @@ categories:
 ~~~
   Am                 Em
   Quiero tenerte muy cerca
-                 B7                   Em  E7
+                 B7                   Em E7
   Mirarme en tus ojos y estar junto a ti
   Am                   Em
   Piensa que tal vez mañana
