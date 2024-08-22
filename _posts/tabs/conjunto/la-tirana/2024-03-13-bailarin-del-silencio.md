@@ -4,23 +4,11 @@ layout: post
 date: \'2024-03-13 20:13:42 -0000\'
 categories:
 - tab
+- La Tirana
 - Conjunto Folklórico PUCV
 ---
 
 # Bailarín del Silencio
-
-## Conceptos
-
-~~~
-  Preguntan si soy pagano o pecador por vestirme de gitano o moreno.
-  Dicen a dios se llega sin mediador, dicen soy loco por bailar con amor
-  
-  Danzo y versos salen de corazón. Bailarin de silencio que habla con Dios
-  Pecador indigno necesito mediador.
-  
-  No soy pagano, de todo parte soy. Si venero imagen no es adoración
-  Aquel que niega su madre no tiene valor. Bailo y canto a madre del Señor
-~~~
 
 ## Introducción
 
@@ -49,15 +37,12 @@ Creo que lo que sale en el coro es lo mismo de la introducción
 ~~~
 D
   Preguntan si soy pagano
-               Em
+               G
   Idólatra o pecador
                     A
   Por vestirme de gitano
                 D
   O moreno saltador
-
-| N  | N  | R | R    |
-| N  | N  | R | R    |
 ~~~
   
 ~~~
@@ -70,8 +55,8 @@ D
          A          D  D7
   Porque bailo con amor
 
-| R  | R  | R | R    |
-| RC | RC | N | R... |
+| R  | R  | R | R  |
+| RC | RC | N | RT |
 ~~~
 
 ## Coro
@@ -81,15 +66,15 @@ D
   Si danzo cantando versos es porque nacen del corazón
       G              D                  A                    D    D7
   Soy bailarín del silencio, de aquel silencio que hablá con Dios
-      G              F#m         Em           D
+      G        A     F#m     B7  Em      A    D
   Soy pecador, soy indigno y necesito de mediador
 ~~~
 
 ~~~
-| G   | D    | A    | D D7 |
-| G   | D    | A    | D    |
-| G A | D B7 | Em A | D    |
-| A D | A D  | -    | -    |
+| G   | D      | A    | D D7 |
+| G   | D      | A    | D    |
+| G A | F#m B7 | Em A | D    |
+| A D | A D    | -    | -    |
 ~~~
 
 ## Verso 2
