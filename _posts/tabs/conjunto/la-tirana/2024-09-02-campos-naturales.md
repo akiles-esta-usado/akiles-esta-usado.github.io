@@ -27,18 +27,27 @@ categories:
 | . F - G A A C A A | . A*    G F |
 ~~~
 
+## Acordes
+
+~~~
+| Dm   | C Dm | Dm A7 | Dm |
+| Dm   | C Dm | Dm A7 | Dm |
+|------|------|-------|----|
+| Dm C | F    | Gm A7 | Dm |
+| Dm C | F    | Gm A7 | Dm |
+~~~
+
 ## Canto
 
 ~~~
-  Dm         ?          A7    Dm
+  Dm         C Dm       A7    Dm
   Campos naturales, dejanos pasar
-  Dm         ?          A7    Dm
-  Campos naturales, dejanos pasar
-  Dm     ?     F      Gm     A7   Dm
+  Dm     C     F      Gm     A7   Dm
   Porque tus devotos, vienen a adorar
   
+  Dm          C Dm           A7   Dm
   Abranse las calles, dennos el camino
-  Abranse las calles, dennos el camino
+  Dm     C     F     Gm    A7     Dm
   Porque ya llegamos a nuestro destino
 ~~~
 
