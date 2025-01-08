@@ -1,7 +1,7 @@
 ---
 title: Tumba Tumba
 layout: post
-date: \'$date $time -0000\'
+date: \'2024-01-05 15:18:19 -0000\'
 categories:
 - tab
 - Con La Garganta en el Puerto
